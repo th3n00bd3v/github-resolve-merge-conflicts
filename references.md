@@ -1,4 +1,4 @@
-# References123456
-## This is an example of file conflicts in main and branched file.
+
+# References
 
 * octocat 1 😈
